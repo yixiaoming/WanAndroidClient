@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_page"
+        android:icon="@mipmap/ic_launcher"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/series"
+        android:icon="@mipmap/ic_launcher"
+        android:title="系列" />
+
+    <item
+        android:id="@+id/collection"
+        android:icon="@mipmap/ic_launcher"
+        android:title="收藏" />
+
+    <item
+        android:id="@+id/personal"
+        android:icon="@mipmap/ic_launcher"
+        android:title="个人" />
+</menu>
